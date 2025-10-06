@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Nigdzie</h1>
+<h1 align="center">🧠 OyczE</h1>
 
 <p align="center">Out of boredom I find problems... and only make them bigger 😎</p>
 
